@@ -13,6 +13,7 @@ Simple and easy way to name, rename and search your files
 ## Example
 - Generate a Name for a file .
 ```markdown
+
 from pyaltername import Generic
 
 filename = "Image.png"
@@ -30,6 +31,12 @@ with open(generic_name, "wb") as file:
 file.close()
 
 ```
+`<
+import me
+print("hello")
+  def me()
+    pe()
+>`
 
 
 
