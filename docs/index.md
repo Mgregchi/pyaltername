@@ -12,7 +12,7 @@ Simple and easy way to name, rename and search your files
 
 ## Example
 - Generate a Name for a file .
-```markdown
+```
 
 from pyaltername import Generic
 
@@ -27,17 +27,10 @@ data = some_data
 generic_name = Generic.name(filename = filename, path = path)
 
 with open(generic_name, "wb") as file:
-  file.write(data)
+    file.write(data)
 file.close()
 
 ```
-`<
-import me
-print("hello")
-  def me()
-    pe()
->`
-
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
