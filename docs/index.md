@@ -1,22 +1,42 @@
 ## PYALTERNAME
 
-You can use the [editor on GitHub](https://github.com/Mgregchi/pyaltername/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Simple and easy way to name, rename and search your files
 
 ### Installations
 
-
+## You can install with :
+```markdown
 - pip install pyaltername
 - pipwin install pyaltername
+```
 
-
+## Example
+1. Generate a Name for a file .
 ```markdown
-Syntax highlighted code block
+from pyaltername import Generic
 
+filename = "Image.png"
+path = r"C:/Users"
+
+'''
+do your work
+data = some_data
+'''
+
+generic_name = Generic.name(filename = filename, path = path)
+
+with open(generic_name, "wb") as file:
+  file.write(data)
+file.close()
+
+```
+
+
+```
 # Header 1
 ## Header 2
 ### Header 3
+
 
 - Bulleted
 - List
