@@ -1,8 +1,8 @@
 ## PYALTERNAME
 
-Simple and easy way to name, rename and search your files
+Simple and easy way to name, rename,search and manage your files.
 
-### Installations
+## Installations
 
 ## You can install with :
 ```markdown
@@ -34,18 +34,23 @@ file.close()
 ```
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Clone and join the move
+### Clone and join the move.
 
-Want to make hte project better?.
-Submit pull request.
+### What you can do :
+
+- Submit pull request.
+- Clone and make it better.
+- Report a bug.
+- Provide helpful feedback.
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with the project? Check out our [documentation](https://github.com/Mgregchi/pyaltername/) or [Create an Issue](https://github.com/Mgregchi/pyaltername/issues/) and you’ll get help to sort it out.
 
 
 ### Resources
 - [Documentation](https://github.com/Mgregchi/pyaltername/)
-- [Issues](https://github.com/Mgregchi/pyaltername/)
+- [Issues](https://github.com/Mgregchi/pyaltername/issues/)
+- [Wiki](https://github.com/Mgregchi/pyaltername/wiki/)
