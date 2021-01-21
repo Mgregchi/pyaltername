@@ -13,7 +13,7 @@ Simple and easy way to name, rename and search your files
 ## Example
 - Generate a Name for a file .
 
-```
+```python
 
 from pyaltername import Generic
 
