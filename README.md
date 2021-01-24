@@ -66,3 +66,4 @@ Having trouble with the project? Check out our [documentation](https://github.co
 - [Documentation](https://github.com/Mgregchi/pyaltername/)
 - [Issues](https://github.com/Mgregchi/pyaltername/issues/)
 - [Wiki](https://github.com/Mgregchi/pyaltername/wiki/)
+- [LICENSE](https://github.com/Mgregchi/pyaltername/blob/main/LICENSE)
