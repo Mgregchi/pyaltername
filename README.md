@@ -59,11 +59,12 @@ Fix a bug!
 
 ### Support or Contact
 
-Having trouble with the project? Check out our [documentation](https://github.com/Mgregchi/pyaltername/) or [Create an Issue](https://github.com/Mgregchi/pyaltername/issues/) and you’ll get help to sort it out.
+Having trouble with the project? Check out the [documentation](https://readthedocs.org/projects/pyaltername/) or [Create an Issue](https://github.com/Mgregchi/pyaltername/issues/) and you’ll get help to sort it out.
 
 
 ### Resources
-- [Documentation](https://github.com/Mgregchi/pyaltername/)
+- [Documentation](https://readthedocs.org/projects/pyaltername/)
+- [Github Page](https://mgregchi.github.io/pyaltername/)
 - [Issues](https://github.com/Mgregchi/pyaltername/issues/)
 - [Wiki](https://github.com/Mgregchi/pyaltername/wiki/)
 - [LICENSE](https://github.com/Mgregchi/pyaltername/blob/main/LICENSE)
